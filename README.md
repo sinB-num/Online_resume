@@ -1,3 +1,6 @@
+2022年12月28 写了一个网页简历 主要从B站上学（Github Pages|个人网站|简历03）步骤：使用github desktop软件 右上角file -> clone respository -> 把github上（https://github.com/BrettHuang2019/devportfolio） 地址复制 然后记住下载下来的本地地址 用VScode打开index.html 点走下角 go live 生成网页对照着更改 改变代码 即可改变对应内容 改完后 -> 切回github Desktop 点左边页面下面的commit to master -> 点右边框上的push上传到github
+
+
 # Dev Portfolio
 
 🚀 **[Dev Portfolio V2 has arrived. Meet Devfolio, a modern portfolio + blog template built with GatsbyJS and TailwindCSS](https://github.com/RyanFitzgerald/devfolio)** 🚀
